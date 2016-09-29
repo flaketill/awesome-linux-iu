@@ -2,3 +2,9 @@ xclip
 xdotool
 expect
 scrot
+xorg-xwininfo
+conky-lua
+xfce4-notifyd
+xorg-xprop
+xcompmgr
+transset-df
